@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
