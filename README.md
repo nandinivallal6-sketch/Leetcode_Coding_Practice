@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3904-smallest-stable-index-ii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
