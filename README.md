@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
