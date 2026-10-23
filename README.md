@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3904-smallest-stable-index-ii](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nandinivallal6-sketch/Leetcode_Coding_Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Combinatorics
 |  |
 | ------- |
